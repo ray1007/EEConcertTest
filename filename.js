@@ -8,5 +8,6 @@ imgElements = [
 '<img alt="" src="photos/Wed, 20 May 2015 07:17:18 GMT.jpg">',
 '<img alt="" src="photos/Wed, 20 May 2015 07:17:28 GMT.jpg">',
 '<img alt="" src="photos/Wed, 20 May 2015 07:17:43 GMT.jpg">',
-'<img alt="" src="photos/Wed, 20 May 2015 07:17:30 GMT.jpg">'
+'<img alt="" src="photos/Wed, 20 May 2015 07:17:30 GMT.jpg">',
+'<img alt="" src="photos/Wed, 20 May 2015 07:21:50 GMT.jpg">'
 ]
